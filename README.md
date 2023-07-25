@@ -1,5 +1,7 @@
 # chatgpt-accessibility-analyser README
 
+Whipped this up in an hour, its essentially an empty `yo code` project for now
+
 This is the README for your extension "chatgpt-accessibility-analyser". After writing up a brief description, we recommend including the following sections.
 
 ## Features
